@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/wasim_akram_13" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_akram_13?logo=twitter&style=for-the-badge" alt="wasim_akram_13" /></a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [BiteFast Food Delivery App](https://demoody.in)
 
