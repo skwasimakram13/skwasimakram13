@@ -34,7 +34,6 @@
 - ⚡ Fun fact **I think I am funny 😂**
 
 [![Help Gaza](http://skwasimakram.com/upload/help-gaza.svg)](https://www.muslimglobalrelief.org/gaza-emergency-appeal/)
-<img align="center" src="http://skwasimakram.com/upload/help-gaza.svg" width="1000" />
 
 
 <h3 align="center">Google Product Expert 🏆🥇</h3>
