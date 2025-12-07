@@ -13,9 +13,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      
-    </a>
+    <img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="1000" />
   </p>
 </div>
 
@@ -29,7 +27,6 @@
 
 <p align="left"> <a href="https://twitter.com/wasim_akram_13" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_akram_13?logo=twitter&style=for-the-badge" alt="wasim_akram_13" /></a> </p>
 
-<img align="center" src="https://github.com/ShinoKana/ShinoKana/blob/main/github-contribution-grid-snake.svg" width="1000" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
