@@ -1,3 +1,23 @@
+<div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Sk+Wasim+Akram;I+Love+Coding;Welcome+to+My+Profile!" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nafisahossainn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nafisahossainn" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=nafisahossainn&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nafisahossainn" />
+    </a>
+  </p>
+</div>
+
+
+  
+
 <h1 align="center">Hi 👋, I'm Sk Wasim Akram</h1>
 <h3 align="center">A passionate frontend & backend developer from India and also founder of Demoody & BiteFast.</h3>
 
