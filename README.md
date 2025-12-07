@@ -1,5 +1,4 @@
 <div align="center">
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Sk+Wasim+Akram;I+Love+Coding;Welcome+to+My+Profile!" alt="Typing SVG" />
   </a>
@@ -55,12 +54,12 @@
 <div align="center">
   <h3 align="center" style="font-weight: bold;"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Google Product Expert 🏆🥇</h3>
     <a href="[https://git.io/typing-svg](https://skwasimakram.com)">
-    <img src="https://skwasimakram.com/uploads/google_expert_invite.png" alt="Google Product Expert - Sk Wasim Akram" align="center" max-width="100%" height="450" object-fit="contain" alt="Sk Wasim Akram Google Product Expert">
-  </a>
-  </br>
-  <a href="https://skwasimakram.com">
-    <img src="https://skwasimakram.com/uploads/google_expert.png" alt="Google Product Expert - Sk Wasim Akram" align="center" max-width="100%" height="450" object-fit="contain" alt="Sk Wasim Akram Google Product Expert">
-  </a>
+      <img src="https://skwasimakram.com/uploads/google_expert_invite.png" alt="Google Product Expert - Sk Wasim Akram" align="center" max-width="100%" height="450" object-fit="contain" alt="Sk Wasim Akram Google Product Expert">
+    </a>
+    <br>
+    <a href="https://skwasimakram.com">
+      <img src="https://skwasimakram.com/uploads/google_expert.png" alt="Google Product Expert - Sk Wasim Akram" align="center" max-width="100%" height="450" object-fit="contain" alt="Sk Wasim Akram Google Product Expert">
+    </a>
 </div>
 
 ---
