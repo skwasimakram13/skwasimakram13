@@ -4,16 +4,16 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Sk+Wasim+Akram;I+Love+Coding;Welcome+to+My+Profile!" alt="Typing SVG" />
   </a>
   <h3 align="center">A passionate frontend & backend developer from India and also founder of Demoody & BiteFast.</h3>
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nafisahossainn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="skwasimakram13" />
+    <img src="https://komarev.com/ghpvc/?username=skwasimakram13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="skwasimakram13" />
   </p>
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+      
     </a>
   </p>
 </div>
