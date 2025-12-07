@@ -5,15 +5,15 @@
   </a>
   <h3 align="center">A passionate frontend & backend developer from India and also founder of Demoody & BiteFast.</h3>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+  
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nafisahossainn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nafisahossainn" />
+    <img src="https://komarev.com/ghpvc/?username=nafisahossainn&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="skwasimakram13" />
   </p>
 
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=nafisahossainn&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="nafisahossainn" />
+      [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
     </a>
   </p>
 </div>
