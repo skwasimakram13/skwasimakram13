@@ -9,7 +9,6 @@
   
   <h3 align="center">A passionate frontend & backend developer from India and also founder of Demoody & BiteFast.</h3>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
   ---
 
